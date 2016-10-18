@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestFab</string>
+    <string name="lorem_ipsum">Ví dụ demo fab button, fab menu với hiệu ứng animation</string>
+    <string name="recyclerview_fab_example">RecyclerView FAB example</string>
+    <string name="floating_action_menu">Floating Action Menu</string>
+    <string name="lorem_ipsum_large">Test string</string>
+    <string name="navigation_drawer_open">Navigation open</string>
+    <string name="navigation_drawer_close">Navigation close</string>
+</resources>
